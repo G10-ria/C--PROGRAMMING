@@ -1,8 +1,8 @@
 /*
 C++ function 
 Author:Gloria Mwenga 
-Ren no:2444
-Date:29 jan 2025
+Ren no:BSCIT-01-0155/2024
+Date:29 January 2025
 version 1
 */
 
