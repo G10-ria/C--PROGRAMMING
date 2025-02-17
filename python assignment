@@ -1,3 +1,10 @@
+/*Python function
+Author : Gloria Mwenga
+Ren no:7502
+Date:25 january 2025
+Version 1
+*/
+
 from datetime import datetime
 
 # Function to calculate fines based on days overdue
