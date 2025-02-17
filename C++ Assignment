@@ -1,3 +1,10 @@
+/* C++ function to calculate the volume of a cylinder
+Author: Gloria Mwenga
+Ren no:01-0155
+Date:14/2/2024
+Version 1
+*/
+
 #include <iostream>
 #include <cmath> // For M_PI (value of π)
 
