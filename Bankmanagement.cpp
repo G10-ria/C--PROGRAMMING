@@ -1,7 +1,7 @@
 /*c++ function
-Author
-Ren no
-Date
+Author:Gloria Mwenga
+Ren no:BSCIT-01-0155/2024
+Date:8th march 2025
 version 1
 */
 
