@@ -1,3 +1,11 @@
+/*c++ function 
+Author: Gloria Mwenga
+Ren:BSCIT-01-0155/2024
+Date:16 march 2024
+version 1
+*/
+
+
 #include<iostream>
 using namespace std;
 
